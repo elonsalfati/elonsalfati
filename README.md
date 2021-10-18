@@ -10,10 +10,17 @@ Help me create positive impact for all of us 🚀!
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/elonsalfati)
 
+<div align="center">
+  
+  ⭐️ Help us make passwordless accessiable for everyone - star our [repo](https://github.com/biostamp/biostamp)! ⭐️
+
+  [biostamp.io](https://biostamp.io)
+
+</div>
 
 
 ### Get to know me better
-- 🔭 I’m currently working on [RELE.AI](https://rele.ai) and [BioCred - Join the waitlist](https://share-eu1.hsforms.com/14FHpFAIkTFSh3uDemgVMCQew3dz)
+- 🔭 I’m currently working on [RELE.AI](https://rele.ai) and [Biostamp - Join the waitlist](https://share-eu1.hsforms.com/1sUdHi1sqSUmwKaS9BuXfmgew3dz)
 - 🌱 I’m currently researching Artificial Immune Systems
 - 🤔 I’m looking for design partners for BioCred
 - 💬 Ask me about anything, I'm happy to help!
