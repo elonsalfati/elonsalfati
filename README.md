@@ -9,14 +9,6 @@ From a burning passion for a positive impact, I'm constantly working towards pro
 [<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />](https://dev.to/elonsalfati)
 [<img src="https://img.shields.io/badge/buymeacoffee-%23FCDD00.svg?&style=for-the-badge&logo=buymeacoffee&logoColor=white" />](https://www.buymeacoffee.com/elonsalfati)
 
-<div align="center">
-  
-  ⭐️ Help us make passwordless accessiable for everyone - star our [repo](https://github.com/biostamp/biostamp)! ⭐️
-
-  [biostamp.io](https://biostamp.io)
-
-</div>
-
 
 ## Get to know me better
 - 🔭 I’m currently working on [RELE.AI](https://rele.ai) and [Biostamp - Join the waitlist](https://share-eu1.hsforms.com/1sUdHi1sqSUmwKaS9BuXfmgew3dz)
