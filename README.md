@@ -11,14 +11,9 @@ From a burning passion for a positive impact, I'm constantly working towards pro
 
 
 ## Get to know me better
-- 🔭 I’m currently working on [Metiss](https://metiss.io)
+- 🚀 I'm following my long-life dream to build "Salfati Group" - a family holding company to drive innovation through deep tech and open-source :-)
+- 🔭 I’m currently working on [Metiss](https://metiss.io) and [Rapidform](https://rapidform.io)
 - 🌱 I’m currently researching ways to detect security vulnarabilities using NLP
-- 🤔 I’m looking for awesome investors for the seed round of [Metiss](https://metiss.io)
 - 💬 Ask me about anything, I'm happy to help!
-- 📫 How to reach me: [elon@salfati.io](mailto:elon@salfati.io) or [@elonsalfati](https://twitter.com/elonsalfati)
-- ⚡ Fun fact: I can stop thinking about the fact that if we'll do everything correct with Metiss then we'll bring such an amazing value to everyone here
-
-## [Metiss.io](https://metiss.io) - join us and rid developers of the task they hate the most - writting test.
-[<img src="https://img.shields.io/badge/github-%23333333.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/metissio)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/metissio)
-[<img src="https://img.shields.io/badge/metiss-%23FFD369.svg?&style=for-the-badge&logo=website&logoColor=white" />](https://metiss.io)
+- 📫 How to reach me: [elon@salfati.group](mailto:elon@salfati.group) or [@elonsalfati](https://twitter.com/elonsalfati)
+- ⚡ Fun fact: I'm getting married to the love of my life in a couple of months
